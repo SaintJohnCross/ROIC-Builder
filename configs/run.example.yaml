@@ -1,0 +1,7 @@
+﻿# Example run config for ROIC Builder
+# Use with: python -m roic_builder.cli --config configs/run.example.yaml
+
+ticker: MSFT
+period: 2025Q4
+template_path: templates/base.pptx
+output_path: out/MSFT.txt

@@ -1,1 +1,1 @@
-print("hello world")
+﻿print('ROIC Builder workspace initialized')
